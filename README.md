@@ -2,7 +2,8 @@
 
 I've been experimenting with [`jscodeshift`](https://github.com/facebook/jscodeshift) for a recent Flow to TypeScript migration, mostly to tackle any large fixups needed post migration.
 
-This is just record of my experimentation. Please **check the docs and online tutorials** for better guides.
+This is just a record of my experimentation. Please **check the docs and online tutorials** for better guides.
+I [found this one helpful](https://skovy.dev/jscodeshift-custom-transform/).
 
 ## Examples of stuff
 
